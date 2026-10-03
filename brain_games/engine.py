@@ -3,9 +3,9 @@ from brain_games.scripts.congratulations import congratulations
 from brain_games.cli import welcome_user
 
 
-def run_game(game, question):
+def run_game(game, task):
     name = welcome_user()
-    print(question)
+    print(task)
     count = 0
     MAX_ROUNDS = 3
     while count < MAX_ROUNDS:
