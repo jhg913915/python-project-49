@@ -1,6 +1,5 @@
-from brain_games.games.gcd_game import gcd_game
 from brain_games.engine import run_game
-
+from brain_games.games.gcd_game import gcd_game
 
 TASK = 'Find the greatest common divisor of given numbers.'
 

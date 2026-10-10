@@ -1,6 +1,5 @@
 import random
 
-
 MIN_LENGTH = 5
 MAX_LENGTH = 10
 MIN_STEP = 1

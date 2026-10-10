@@ -1,6 +1,5 @@
-from brain_games.games.even_game import even_game
 from brain_games.engine import run_game
-
+from brain_games.games.even_game import even_game
 
 TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
 

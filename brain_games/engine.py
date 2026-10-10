@@ -1,6 +1,7 @@
 import prompt
-from brain_games.scripts.congratulations import congratulations
+
 from brain_games.cli import welcome_user
+from brain_games.scripts.congratulations import congratulations
 
 
 def run_game(game, task):
